@@ -1,4 +1,4 @@
-# Rotation équitable U10
-Package corrigé pour GitHub Pages.
+# Rotation U10 - version statique finale
+Cette version ne dépend ni de Vite, ni de npm, ni d'un build JavaScript. GitHub Pages publie directement `index.html`.
 
-Chargez tous les fichiers dans le repository, en remplaçant les anciens. Le workflow `.github/workflows/deploy.yml` publie automatiquement le site.
+Chargez `index.html` et le fichier `.github/workflows/deploy.yml` dans le repository. Dans Settings > Pages, choisissez GitHub Actions.
