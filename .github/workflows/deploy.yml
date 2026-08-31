@@ -40,5 +40,4 @@ steps:
   steps:
 - name: Deploy GitHub Pages
   id: deployment
-56
-uses: actions/deploy-pages@v4
+  uses: actions/deploy-pages@v4
